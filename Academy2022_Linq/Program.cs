@@ -75,7 +75,6 @@ namespace Academy2022_Linq
             //AdvancedExamples.GroupByExample();
             //AdvancedExamples.AggregateExample();
             //Exercise1.Exercise1Solution();
-            Exercise3.Exercise3_part2_Solution();
 
             Console.ReadKey();
 
