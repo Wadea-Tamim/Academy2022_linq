@@ -8,6 +8,7 @@ namespace Academy2022_Linq.Examples
     public class UsefulMethods
     {
         public static List<Employee> employees = DataGenerator.LoadEmployees();
+        public static List<int> listOfNumbers = new List<int> { 10, 5, 25, 30};
 
         //This method can crash the app when employee not found!
         public static Employee LinqFirstMethod(string employeeName)
@@ -25,7 +26,11 @@ namespace Academy2022_Linq.Examples
         {
             return employees.Where(x => x.Company.Country == country).Select(x => x.Company.Name).ToList(); 
         }
-
+        // Select: Add 5 to the list of numbers above
+        public static List<int> LinqSelectAddFive()
+        {
+            return listOfNumbers.Select(x => { x += 5; return x; }).ToList();
+        }
 
         //Where advantage:
         //Return a list of employees by given CityName no LINQ *** cityName = Richmond
