@@ -43,7 +43,13 @@ namespace Academy2022_Linq.Examples
             var minAge = children.Aggregate(5, (younger, next) => next.Age < younger ? next.Age : younger);
             Console.WriteLine(minAge);
         }
-
+        public static List<double> listOfNumbers = new List<double> { 125, 100, 250, 17, 266 };
+        public static void AggregateSumExample()
+        {
+            var Total = listOfNumbers.Aggregate((sum, x) => sum + x);
+            // Total: ((((125+100)+250)+17)+266) = 758
+            Console.WriteLine(Total);
+        }
 
     }
 }
