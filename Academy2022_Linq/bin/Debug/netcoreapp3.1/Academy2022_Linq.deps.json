@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Academy2022_Linq/1.0.0": {
+        "runtime": {
+          "Academy2022_Linq.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Academy2022_Linq/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

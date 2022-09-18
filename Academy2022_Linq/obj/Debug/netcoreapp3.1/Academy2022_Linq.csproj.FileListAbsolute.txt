@@ -1,0 +1,28 @@
+C:\Users\wadtam\OneDrive - Avensia AB\Desktop\academy\Project\Academy2022\Academy2022_Linq\bin\Debug\netcoreapp3.1\Academy2022_Linq.exe
+C:\Users\wadtam\OneDrive - Avensia AB\Desktop\academy\Project\Academy2022\Academy2022_Linq\bin\Debug\netcoreapp3.1\Academy2022_Linq.deps.json
+C:\Users\wadtam\OneDrive - Avensia AB\Desktop\academy\Project\Academy2022\Academy2022_Linq\bin\Debug\netcoreapp3.1\Academy2022_Linq.runtimeconfig.json
+C:\Users\wadtam\OneDrive - Avensia AB\Desktop\academy\Project\Academy2022\Academy2022_Linq\bin\Debug\netcoreapp3.1\Academy2022_Linq.runtimeconfig.dev.json
+C:\Users\wadtam\OneDrive - Avensia AB\Desktop\academy\Project\Academy2022\Academy2022_Linq\bin\Debug\netcoreapp3.1\Academy2022_Linq.dll
+C:\Users\wadtam\OneDrive - Avensia AB\Desktop\academy\Project\Academy2022\Academy2022_Linq\bin\Debug\netcoreapp3.1\Academy2022_Linq.pdb
+C:\Users\wadtam\OneDrive - Avensia AB\Desktop\academy\Project\Academy2022\Academy2022_Linq\obj\Debug\netcoreapp3.1\Academy2022_Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wadtam\OneDrive - Avensia AB\Desktop\academy\Project\Academy2022\Academy2022_Linq\obj\Debug\netcoreapp3.1\Academy2022_Linq.AssemblyInfoInputs.cache
+C:\Users\wadtam\OneDrive - Avensia AB\Desktop\academy\Project\Academy2022\Academy2022_Linq\obj\Debug\netcoreapp3.1\Academy2022_Linq.AssemblyInfo.cs
+C:\Users\wadtam\OneDrive - Avensia AB\Desktop\academy\Project\Academy2022\Academy2022_Linq\obj\Debug\netcoreapp3.1\Academy2022_Linq.csproj.CoreCompileInputs.cache
+C:\Users\wadtam\OneDrive - Avensia AB\Desktop\academy\Project\Academy2022\Academy2022_Linq\obj\Debug\netcoreapp3.1\Academy2022_Linq.dll
+C:\Users\wadtam\OneDrive - Avensia AB\Desktop\academy\Project\Academy2022\Academy2022_Linq\obj\Debug\netcoreapp3.1\Academy2022_Linq.pdb
+C:\Users\wadtam\OneDrive - Avensia AB\Desktop\academy\Project\Academy2022\Academy2022_Linq\obj\Debug\netcoreapp3.1\Academy2022_Linq.genruntimeconfig.cache
+C:\Users\wadtam\OneDrive - Avensia AB\Desktop\academy\Project\Academy2022\Academy2022_Linq\obj\Debug\netcoreapp3.1\Academy2022_Linq.csproj.AssemblyReference.cache
+C:\academy\Project\Academy2022\Academy2022_Linq\obj\Debug\netcoreapp3.1\Academy2022_Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\academy\Project\Academy2022\Academy2022_Linq\obj\Debug\netcoreapp3.1\Academy2022_Linq.AssemblyInfoInputs.cache
+C:\academy\Project\Academy2022\Academy2022_Linq\obj\Debug\netcoreapp3.1\Academy2022_Linq.AssemblyInfo.cs
+C:\academy\Project\Academy2022\Academy2022_Linq\obj\Debug\netcoreapp3.1\Academy2022_Linq.csproj.CoreCompileInputs.cache
+C:\academy\Project\Academy2022\Academy2022_Linq\obj\Debug\netcoreapp3.1\Academy2022_Linq.dll
+C:\academy\Project\Academy2022\Academy2022_Linq\obj\Debug\netcoreapp3.1\Academy2022_Linq.pdb
+C:\academy\Project\Academy2022\Academy2022_Linq\bin\Debug\netcoreapp3.1\Academy2022_Linq.exe
+C:\academy\Project\Academy2022\Academy2022_Linq\bin\Debug\netcoreapp3.1\Academy2022_Linq.deps.json
+C:\academy\Project\Academy2022\Academy2022_Linq\bin\Debug\netcoreapp3.1\Academy2022_Linq.runtimeconfig.json
+C:\academy\Project\Academy2022\Academy2022_Linq\bin\Debug\netcoreapp3.1\Academy2022_Linq.runtimeconfig.dev.json
+C:\academy\Project\Academy2022\Academy2022_Linq\bin\Debug\netcoreapp3.1\Academy2022_Linq.dll
+C:\academy\Project\Academy2022\Academy2022_Linq\bin\Debug\netcoreapp3.1\Academy2022_Linq.pdb
+C:\academy\Project\Academy2022\Academy2022_Linq\obj\Debug\netcoreapp3.1\Academy2022_Linq.genruntimeconfig.cache
+C:\academy\Project\Academy2022\Academy2022_Linq\obj\Debug\netcoreapp3.1\Academy2022_Linq.csproj.AssemblyReference.cache

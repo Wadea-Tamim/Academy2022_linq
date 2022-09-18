@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LinqToExcel/1.0.0": {
+        "runtime": {
+          "LinqToExcel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LinqToExcel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

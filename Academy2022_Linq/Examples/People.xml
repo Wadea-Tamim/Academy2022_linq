@@ -1,0 +1,33 @@
+﻿<?xml version="1.0"?>
+<People>
+	<Person Email="yphilipot0@fema.gov">
+		<FirstName>Alex</FirstName>
+		<LastName>Berg</LastName>
+		<CompanyName>Postnord</CompanyName>
+		<Address>
+			<City>Malmö</City>
+			<Stree>Fosievägen</Stree>
+			<Building>1</Building>
+		</Address>
+	</Person>
+	<Person Email="adowd1@bloomberg.com">
+		<FirstName>Mark</FirstName>
+		<LastName>Andersson</LastName>
+		<CompanyName>DHL</CompanyName>
+		<Address>
+			<City>Helsingborg</City>
+			<Stree>Bruksgatan</Stree>
+			<Building>3</Building>
+		</Address>
+	</Person>
+	<Person Email="ghuntley2@mozilla.org">
+		<FirstName>Linda</FirstName>
+		<LastName>Green</LastName>
+		<CompanyName>Schinker</CompanyName>
+		<Address>
+			<City>Lund</City>
+			<Stree>Klostergatan</Stree>
+			<Building>11</Building>
+		</Address>
+	</Person>
+</People>
