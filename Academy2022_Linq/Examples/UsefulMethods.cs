@@ -18,7 +18,7 @@ namespace Academy2022_Linq.Examples
         //This method will return null when employee not found.
         public static Employee LinqFirstOrDefaultMethod(string employeeName)
         {
-            return employees.Where(x => x.Name == employeeName).FirstOrDefault();
+            return employees.Where(x => x.Name == employeeName).SingleOrDefault();
         }
 
         //Select: Let's say we want to return a list of only the company names when a country is given.
@@ -51,6 +51,23 @@ namespace Academy2022_Linq.Examples
         public static List<Employee> WhereCityNameEqaual(string cityName)
         {
             return employees.Where(x => x.Company.City == cityName).ToList();
+        }
+
+        public static void CreateNewClass(string cityName)
+        {
+            var newClassList = employees.Where(x => x.Company.Country == "Belgium").Select(x => new EmployeeInfo
+            {
+                NameOfCountry = x.Company.Country,
+                NameOfEmployee = x.Name,
+                City = cityName
+            });
+        }
+
+        public class EmployeeInfo
+        {
+            public string NameOfEmployee { get; set; }
+            public string NameOfCountry { get; set; }
+            public string City { get; set; }
         }
     }
 }

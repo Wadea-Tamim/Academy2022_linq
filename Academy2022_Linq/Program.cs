@@ -24,7 +24,7 @@ namespace Academy2022_Linq
             #region LINQ to lists:
             var employees = DataGenerator.LoadEmployees();
 
-            var employeesInBelgium = employees.Where(x => x.Company.Country == "Belgium").ToList();
+            var employeesInBelgium = employees.Where(x => x.Company.Country == "Belgium1").ToList();
 
             //var employeesWorksAtPenatibusInc = employees.Where(x => x.Company.Name == "Penatibus Inc.").Select(x => x.Name);
 
@@ -35,12 +35,16 @@ namespace Academy2022_Linq
             //        Console.WriteLine(emp.Email);
             //    }
             //}
+            //else
+            //{
+            //    Console.WriteLine("no matches!");
+            //}
 
             #endregion
 
             #region LINQSliders:
             var firstMethodEmployee = UsefulMethods.LinqFirstMethod("Wesley Dyer");
-            var firsOrDefaultMethodEmployee = UsefulMethods.LinqFirstOrDefaultMethod("Ethan Gibbs1");
+            var firsOrDefaultMethodEmployee = UsefulMethods.LinqFirstOrDefaultMethod("Ethan Gibbs");
             //Console.WriteLine(firstMethodEmployee.Email + "\n" + firsOrDefaultMethodEmployee?.Email);
 
             //Any() in prevoius region
@@ -53,7 +57,7 @@ namespace Academy2022_Linq
             //}
 
             var listOfNumbers = new List<int> { 5, 100, 59, 7, 98, 72, 2, 9 };
-            listOfNumbers = listOfNumbers.OrderByDescending(x => x).ToList();
+            listOfNumbers = listOfNumbers.OrderBy(x => x).ToList();
             //foreach (int num in listOfNumbers)
             //{
             //    Console.WriteLine(num);
@@ -69,13 +73,22 @@ namespace Academy2022_Linq
 
             var whereNolinq = UsefulMethods.WhereCityNameEqaualNoLinq("Richmond");
             var whereLinq = UsefulMethods.WhereCityNameEqaual("Richmond");
+            //foreach(var emp in whereLinq)
+            //{
+            //    Console.WriteLine(emp.Name);
+            //}
+
             #endregion
 
 
             //AdvancedExamples.GroupByExample();
-            //AdvancedExamples.AggregateExample();
+            AdvancedExamples.AggregateSumExample();
             //Exercise1.Exercise1Solution();
-
+            //var listOFNumbers = UsefulMethods.LinqSelectAddFive();
+            //foreach(var x in listOFNumbers)
+            //{
+            //    Console.WriteLine(x);
+            //}
             Console.ReadKey();
 
            

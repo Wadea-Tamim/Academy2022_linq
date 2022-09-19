@@ -19,7 +19,7 @@ namespace Academy2022_Linq.Examples
         {
             
 
-            children = children.OrderBy(pet => pet.Age).ToList();
+            children = children.OrderBy(x => x.Name).ToList();
 
             foreach (Child child in children)
             {
