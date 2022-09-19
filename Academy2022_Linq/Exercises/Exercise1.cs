@@ -13,7 +13,11 @@ namespace Academy2022_Linq.Exercises
 
         public static void Exercise1Solution()
         {
-            //Work here :D 
+            var evenNumbers = listOfNumbers.Where(x => x % 2 == 0).ToList();
+            foreach (var num in evenNumbers)
+            {
+                Console.WriteLine(num);
+            }
         }
     }
 }

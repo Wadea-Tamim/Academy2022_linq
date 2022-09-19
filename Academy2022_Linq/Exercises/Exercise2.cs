@@ -17,7 +17,12 @@ namespace Academy2022_Linq.Exercises
         //Part2 : Sort the list alphabetically then print only the first Element.
         public static void Exercise2_Part2_Solution()
         {
-            //Work here :D 
+            var t = listOfWords.OrderBy(x => x).Take(2).ToList();
+            foreach(var x in t)
+            {
+                Console.WriteLine(x);
+            }
+            Console.WriteLine();
         }
     }
 }

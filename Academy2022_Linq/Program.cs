@@ -82,13 +82,16 @@ namespace Academy2022_Linq
 
 
             //AdvancedExamples.GroupByExample();
-            AdvancedExamples.AggregateSumExample();
-            //Exercise1.Exercise1Solution();
+            //AdvancedExamples.AggregateSumExample();
+
             //var listOFNumbers = UsefulMethods.LinqSelectAddFive();
             //foreach(var x in listOFNumbers)
             //{
             //    Console.WriteLine(x);
             //}
+
+
+            Exercise2.Exercise2_Part2_Solution();
             Console.ReadKey();
 
            
